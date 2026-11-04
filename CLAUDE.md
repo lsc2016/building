@@ -34,7 +34,7 @@
 ## 다른 프로젝트와의 연결
 - `lsc2016/realestate-app`(비공개) — 진짜 앱. 그 `deploy.sh` 가 같은 배포(`AKfycbwGRpB…`)를 갱신하므로 주소는 그대로 유지된다. 거기서 "새 배포"를 만들면 주소가 바뀌어 이 페이지를 고쳐야 한다.
 - `lsc2016/realestate`(공개) — "세입자 장부" 넘겨주는 페이지. 이 저장소와 거의 똑같다(이름과 `?b=mom` 만 다름, 아이콘도 같은 파일). 한쪽을 고치면 다른 쪽도 같이 고칠지 확인.
-- 미니PC(zotac) 폴더: `~/my_app/` (realestate-app CLAUDE.md 기준).
+- 미니PC(zotac) 폴더: `~/my_app/building-page` (realestate-app CLAUDE.md 기준).
 
 ## 저장소 밖
 - Apps Script 웹 앱(위 주소). 건물별 시트와 PIN 은 realestate-app 쪽에 있다.
